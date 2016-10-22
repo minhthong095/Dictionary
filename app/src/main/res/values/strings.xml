@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+
+    <string name="title_section1">Anh - Việt</string>
+    <string name="title_section2">Việt - Anh</string>
+    <string name="title_section3">Từ gần đây</string>
+    <string name="title_section4">Từ yêu thích</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="install_tutorial">"Hãy cài đặt app 'Văn bản thành giọng nói' để có thể nghe được"</string>
+    <string name="setting_tutorial">"Hãy tải dữ liệu âm thanh cho Tiếng việt"</string>
+    <string name="search_title">Tìm kiếm</string>
+</resources>
